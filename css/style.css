@@ -92,6 +92,7 @@ body {
   font-weight: 700;
   line-height: 1.07;
   color: var(--color-white);
+  letter-spacing: 0.02em;
 }
 .primary-button {
   padding: 16px 32px 16px 32px;
@@ -138,7 +139,7 @@ body {
 .team-section-title {
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.11;
   color: var(--color-dark);
   text-transform: capitalize;
   letter-spacing: 0.02em;
@@ -160,6 +161,8 @@ body {
   font-size: 20px;
   font-weight: 500;
   color: var(--color-dark);
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-section {
