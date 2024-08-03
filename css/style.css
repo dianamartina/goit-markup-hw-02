@@ -129,6 +129,7 @@ body {
   font-weight: 500;
   line-height: 24px;
   color: var(--color-dark);
+  letter-spacing: 0.02em;
 }
 
 .team-section {
